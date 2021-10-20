@@ -8,4 +8,4 @@ all: mandelbrot_seq
 clean:
 	$(RM) mandelbrot_seq mandelbrot_seq.png
 
-mandelbrot: mandelbrot_seq.c
+mandelbrot_seq: mandelbrot_seq.c
