@@ -22,3 +22,4 @@ This exercise consists in measuring all heat stencil variants (1D, 2D and 3D) to
 - Measure the speedup and efficiency of all three stencil codes for varying problem and machine sizes/mappings. Consider using strong scalability, weak scalability, or both. Justify your choice.
 - Illustrate the data in appropriate figures and discuss them. What can you observe?
 - Measure and illustrate at least one domain-specific and one domain-inspecific performance metric. What can you observe?
+- Insert the (absolute) scalability for 64 cores for a problem size of your choice into the comparison spreadsheet: https://docs.google.com/spreadsheets/d/1p7EgZQW9D34pnLUofnEyMDOUJVF_FSFU_jB9eEECeqk/edit?usp=sharing
