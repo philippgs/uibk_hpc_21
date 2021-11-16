@@ -27,6 +27,8 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2021-10-12 | -          | Administrative matters, introduction to LCC2                |
 | 2021-10-19 | [1](01)    | SLURM Job Submission, basic cluster setup and measurements  |
 | 2021-11-09 | [2](02)    | Basic parallelization with MPI                              |
+| 2021-11-16 | [3](03)    | 2D/3D heat stencil: Virtual topologies, derived data types  |
+| 2021-11-23 | [4](04)    | 2D/3D heat stencil: latency hiding, hybrid parallelism      |
 
 
 ## Handing in and Presenting Solutions
