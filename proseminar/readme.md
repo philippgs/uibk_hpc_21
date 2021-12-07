@@ -31,6 +31,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2021-11-23 | [4](04)    | 2D/3D heat stencil: latency hiding, hybrid parallelism      |
 | 2021-11-30 | [5](05)    | 3D n-body: sequential version and parallelization planning  |
 | 2021-12-07 | [6](06)    | 3D n-body: parallelization, optimization, load balancing    |
+| 2021-12-14 | [7](07)    | 3D heat stencil: domain decomposition, performance analysis |
 
 
 ## Handing in and Presenting Solutions
