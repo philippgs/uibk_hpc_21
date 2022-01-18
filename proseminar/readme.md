@@ -34,6 +34,7 @@ for that assignment have to be handed in via OLAT by 9:00 on Tuesday.
 | 2021-12-14 | [7](07)    | 3D heat stencil: domain decomposition, performance analysis |
 | 2022-01-11 | [8](08)    | Basic parallelization with Chapel, monte carlo PI           |
 | 2022-01-18 | [9](09)    | Vectorization                                               |
+| 2022-01-25 | [10](10)   | Heat stencil porting to SYCL                                |
 
 
 ## Handing in and Presenting Solutions
